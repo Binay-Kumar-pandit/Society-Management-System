@@ -73,7 +73,6 @@ server.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
 
-import path from 'path';
 import { fileURLToPath } from 'url';
 
 // For ES modules path handling
